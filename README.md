@@ -6,7 +6,7 @@ This version is based on the work of [Peter Schepers](https://ist.uwaterloo.ca/~
 The reason I made this version was to make the boards smaller so that all three boards can fit on one PCB panel and thereby reducing the cost of the PCB by two thirds when using the 10x10cm prototype offers from PCB houses like Seeed Studio.
 Making a panel also has the advantage that you can order a paste stencil with the PCB panel which makes it very easy to solder the SMD components for all three boards at once which is good if you want to build a batch of boards.
 
-<img src="images/panel-top.png" alt="drawing" width="300"/> <img src="images/panel-bottom.png" alt="drawing" width="300"/>
+<img src="images/panel-top.png" alt="drawing" width="400"/><img src="images/panel-bottom.png" alt="drawing" width="400"/>
 
 The program cartridge needed for the diagnostic program is a standard 8 Kilobyte cartridge running from $8000.
 I will make schematics and gerbers for the cartridge available in a separate repository later.
