@@ -26,6 +26,7 @@ A DIN connector loopback adapter is also required for testing the serial port. C
  | LD1 | 1 | LED 3mm | Power LED |
  | R1,R2,R5,R6 | 4 | 110K 0805 | 120k works too |
  | R3,R9 | 2 | 330R 0805 | R9=current limiter for LED, 560R or even higher should be ok for R9 |
+ | R8 | 1 | 10k 0805 | |
  | R4 | 1 | 150R 0805 | |
  
 ## BOM for User Port
